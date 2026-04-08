@@ -1,0 +1,2 @@
+# siakad-mini
+TUGAS UTS
